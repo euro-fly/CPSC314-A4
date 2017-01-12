@@ -1,4 +1,4 @@
-***Ray tracer 2016***
+Ray Tracer Thing
 
 Compiling and Running on *nix
 =============================
@@ -51,3 +51,7 @@ See scenes/basic.ray for a self-describing scene file.
 
 done by jacob madrid (r6q8 / 48072128)
 shout outs to piazza, scratchapixel, and to the TAs who write out stuff on whiteboards. you guys are the real heroes.
+
+TODO:
+- implement pixel sampling to get soft shadows and stuff in
+- refraction, possibly
